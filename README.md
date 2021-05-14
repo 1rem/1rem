@@ -6,11 +6,10 @@ An open source collaborative learning experience, built for people that do.
 
 ## People
 
-
+Simon Debbarma
+hello@makeshack.dev
 
 ---
 
 
 ## Team Dependencies:
-
-[Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
